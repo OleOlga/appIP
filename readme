@@ -1,0 +1,5 @@
+How do I get started with ?
+------------------------------------
+The  files included in `/dist` is a good starting point for working with . Out of the box, includes the core JavaScript for running and interacting with tours, a default template for rendering bubbles, and a default CSS file to provide a basic look and feel for your tours. To get started, simply include these files on your page, then use the Hopscotch API to start a tour. While will use YUI or jQuery if they're present, they're not required.
+
+Check out for usage examples and a live sample tour. If you'd like to tweak some of the default assets included with to best suit your project's needs, read on for details about how to modify and rebuild a custom version of Hopscotch.
